@@ -1,0 +1,64 @@
+body {
+  background:PaleTurquoise;
+}
+
+#mainNavbar .navbar-brand {
+  color: dodgerblue;
+  font-family: 'Bubblegum Sans';
+  font-size: 1.8rem;
+}
+#mainNavbar .nav-link{
+  font-family:'Dosis';
+  color: white
+}
+#mainNavbar .nav-link:hover{
+  color: dodgerblue
+}
+
+#Quote {
+  font-family: 'Mansalva';
+  color: royalblue;
+}
+
+.navbar.scrolled {
+  background: turquoise;
+  transition: background 500ms;
+}
+table{
+    margin:auto;
+}
+td {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+.red {
+    background-color: red;
+}
+.blue{
+    background-color: dodgerblue;
+}
+.green{
+    background-color: limegreen;
+}
+#time-show{
+    height:20px;
+    background-color:red;
+}
+#time-bar{
+    margin-left:25%;
+    margin-right:25%;
+    height:20px;
+    margin-top:50px;
+    margin-bottom:30px;
+}
+#score{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30pt;
+}
+
+p {
+  text-align: center; 
+  font-size: 25px;
+}
